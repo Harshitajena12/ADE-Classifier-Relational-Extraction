@@ -223,7 +223,7 @@ def run_test():
 # --- Streamlit UI ---
 st.set_page_config(page_title="Pharmacovigilance Pipeline - IQVIA Panel Demo", layout="wide")
 st.title("🏥 Pharmacovigilance Pipeline - IQVIA Panel Demo")
-st.markdown('<p style="font-size: 1.35rem; margin-top: 0.25rem; margin-bottom: 0.5rem;">Team: Mirudl · Harshita Jen · Sahiti Amirapu</p>', unsafe_allow_html=True)
+st.markdown('<p style="font-size: 1.35rem; margin-top: 0.25rem; margin-bottom: 0.5rem;">Team: Mirudl · Harshita Jena · Sahiti Amirapu</p>', unsafe_allow_html=True)
 
 # BONUS feature: always kept up (right below title, before button and results)
 st.markdown('<span style="color: #2e7d32; font-weight: 700;">BONUS feature</span>', unsafe_allow_html=True)
